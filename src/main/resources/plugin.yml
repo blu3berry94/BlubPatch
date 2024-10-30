@@ -1,0 +1,13 @@
+name: BlubPatch
+version: '1.0'
+main: me.blubriu.blubPatch.BlubPatch
+api-version: '1.20'
+authors: [ BlubRiu ]
+description: Known bug patched plugin for RVL
+website: https://blueberry.is-a.dev
+
+commands:
+  blubpatch:
+    description: Main command for BlubPatch.
+    usage: /<command> <subcommand>
+    aliases: [ bp ]

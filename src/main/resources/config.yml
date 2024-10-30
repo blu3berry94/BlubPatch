@@ -1,0 +1,15 @@
+# BlubPatch
+# A plugin used for AsakaMC Revelation Skyblock
+
+# Patch: ArrowVelocity = NaN
+worlds:
+  - bicanh1
+  - bicanh2
+  - bicanh3
+  - pb1
+  - pb2
+  - pb3
+  - newcontent
+  - thanhlant1
+  - trungthu
+  - world
